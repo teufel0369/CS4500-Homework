@@ -1,5 +1,6 @@
 # CS4500-Homework
 
+Homework 1
 Javascript project called 'Strange Game'. One week timeline. 
 
 1. Randomly choose a direction: up, down, left, or right. Each direction should be equally likely, over the long haul, to be chosen.  Call the direction D.
